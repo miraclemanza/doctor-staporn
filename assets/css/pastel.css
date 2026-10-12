@@ -74,3 +74,4 @@ article{padding:36px!important}
 .about-text p,.service-item-text{line-height:1.8!important}
 .timeline-item{padding-bottom:6px}
 .h2,.h3,.h4{letter-spacing:0}
+@media (min-width:1024px){[data-page="conditions"] .service-list .service-item:last-child:nth-child(odd){grid-column:1/-1}}
